@@ -41,6 +41,7 @@ Project Highlights
 
 My experiences in this project have not only expanded my technical proficiency but also showcased a proactive and innovative approach to cybersecurity analysis. I am proud to share my journey, and believe that these accomplishments reflect my commitment to continuous learning and the pursuit of excellence in the field of cybersecurity.
 
+---
 
 ## Elastic Stack SIEM Home Lab
 created by Abdullahi Ali
