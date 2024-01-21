@@ -2,10 +2,10 @@
 Documenting what cybersecurity related concepts I have learned through different home labs.
 
 ## So You Want To Be A SOC Analyst 
-    created by Eric Capuano
+created by Eric Capuano
 ### Overview
 
-Welcome to our Cybersecurity Project Showcase! In this project, we've undertaken a series of tasks aimed at enhancing our practical understanding of cybersecurity, refining hands-on skills, and contributing to the development of a proactive security posture. Below are the key highlights of our accomplishments:
+Welcome to my Cybersecurity Project Showcase! In this project, I've undertaken a series of tasks aimed at enhancing my practical understanding of cybersecurity, refining hands-on skills, and contributing to the development of a proactive security posture. Below are the key highlights of accomplishments:
 Project Highlights
 1. Virtualization Environment
 
@@ -39,4 +39,4 @@ Project Highlights
 
 ### Key Takeaways
 
-Our experiences in this project have not only expanded our technical proficiency but also showcased a proactive and innovative approach to cybersecurity analysis. We are proud to share our journey, and we believe that these accomplishments reflect our commitment to continuous learning and the pursuit of excellence in the field of cybersecurity.
+My experiences in this project have not only expanded my technical proficiency but also showcased a proactive and innovative approach to cybersecurity analysis. I am proud to share my journey, and believe that these accomplishments reflect my commitment to continuous learning and the pursuit of excellence in the field of cybersecurity.
