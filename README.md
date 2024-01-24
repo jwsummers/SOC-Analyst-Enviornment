@@ -1,7 +1,4 @@
-# SOC-Automation-Projects
-Documenting what cybersecurity related concepts I have learned through different home labs.
-
-## So You Want To Be A SOC Analyst 
+### So You Want To Be A SOC Analyst 
 created by Eric Capuano
 ### Project Overview
 
